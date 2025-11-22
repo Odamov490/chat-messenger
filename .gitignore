@@ -1,0 +1,13 @@
+# Node
+node_modules
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# Vite / build
+dist
+.vite
+
+# Env
+.env
+.env.*
